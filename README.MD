@@ -122,7 +122,7 @@ Career Counseling Techniques
 Streamlit AI App Tutorials
 
 
-
+youtube video link full working: https://youtu.be/KiYr36hbKQQ
 ---
 
 🙋‍♂️ Author
